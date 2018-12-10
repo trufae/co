@@ -1,4 +1,4 @@
-# The Co programming lanugage
+# The Co programming language
 
 A programming language and optimizing compiler.
 
